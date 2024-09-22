@@ -33,7 +33,7 @@ palette_peek(3)
 
 ## 🎨 Palettes
 Some examples of the palettes included in this package are:
-### 📊 Two (2) colors [🔝](#start)
+### 📊 Two (2) colors
 
 | Name                                                                                                                            | Palette                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -66,8 +66,7 @@ Some examples of the palettes included in this package are:
 | `"woody"`                      | <img src="man/assets/palette swatches/woody.png" width="50%"/>                       |
 | `"woody2"`                      | <img src="man/assets/palette swatches/woody2.png" width="50%"/>                       |
 
-### 📊 Three (3) colors [🔝](#start)
-
+### 📊 Three (3) colors
 | Name                                                                                                                            | Palette                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `"bnw_three"`                      | <img src="man/assets/palette swatches/bnw_three.png" width="50%"/>                       |
@@ -92,8 +91,7 @@ Some examples of the palettes included in this package are:
 | `"trout"`                      | <img src="man/assets/palette swatches/trout.png" width="50%"/>                       |
 | `"waterandsand"`                      | <img src="man/assets/palette swatches/waterandsand.png" width="50%"/>                       |
 
-### 📊 Four (4) colors [🔝](#start)
-
+### 📊 Four (4) colors
 | Name                                                                                                                            |                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `"bnw_four"`                      | <img src="man/assets/palette swatches/bnw_four.png" width="50%"/>                       |
@@ -114,7 +112,7 @@ Some examples of the palettes included in this package are:
 | `"strangefour"`                      | <img src="man/assets/palette swatches/strangefour.png" width="50%"/>                       |
 | `"vibrantfour"`                      | <img src="man/assets/palette swatches/vibrantfour.png" width="50%"/>                       |
 
-### 📊 Twelve (12) colors [🔝](#start)
+### 📊 Twelve (12) colors
 
 | Name                                                                                                                            | Palette                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +123,7 @@ Some examples of the palettes included in this package are:
 | `"basicbundle7"`                      | <img src="man/assets/palette swatches/basicbundle7.png" width="50%"/>                       |
 | `"basicbundle8"`                      | <img src="man/assets/palette swatches/basicbundle8.png" width="50%"/>                       |
 
-### 📊 Eighteen (18) colors [🔝](#start)
+### 📊 Eighteen (18) colors 
 
 |Name   |  Palette   |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
