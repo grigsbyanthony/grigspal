@@ -1,7 +1,7 @@
 # grigspal<a href="https://github.com/grigsbyanthony/grigspal"><img src="man/assets/sillygooplogo.png" align="right" height="100" /></a>
 [![R Programming](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/about.html)
 [![R Programming](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)]([https://www.r-project.org/about.html](https://github.com/grigsbyanthony))
+)](https://github.com/grigsbyanthony)
 ![GitHub Release](https://img.shields.io/github/v/release/grigsbyanthony/grigspal)
 
 ## ❓ Overview
