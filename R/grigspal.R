@@ -3,15 +3,23 @@
 library(ggplot2)
 library(ggthemes)
 library(scales)
+library(grid)
+
+required_packages <- c("ggplot2", "ggthemes", "scales", "grid")
+
+load_required_packages <- function() {
+  for (pkg in required_packages) {
+    if (!requireNamespace(pkg, quietly = TRUE)) {
+      stop(paste("Package '", pkg, "' is required but is not installed. Please install it.", sep = ""))
+    }
+    library(pkg, character.only = TRUE)
+  }
+}
+
 
 # Custom theme for my previews
 theme_Publication <- function(base_size=14, base_family="helvetica") {
-  if (!requireNamespace("ggthemes", quietly = TRUE)) {
-    stop("Package 'ggthemes' is required but is not installed. Please install it.")
-  }
-  if (!requireNamespace("grid", quietly = TRUE)) {
-    stop("Package 'grid' is required but is not installed. Please install it.")
-  }
+  load_required_packages()
 
   ggthemes::theme_foundation(base_size=base_size, base_family=base_family) +
   theme(plot.title = element_text(face = "bold",
