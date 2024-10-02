@@ -5,7 +5,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/grigsbyanthony/grigspal)
 
 ## ❓ Overview
-[`grigspal`](#start) is an R library of quirky color palettes for data visualization in packages like ggplot2. It's effectively just a fun collection of color combinations I find make for visually interesting figures (bar plots, line plots, heatmaps, PCoA, etc.).
+[`grigspal`](#start) is a R library of quirky color palettes for data visualization in packages like ggplot2. It's effectively just a fun collection of color combinations I find make for visually interesting figures (bar plots, line plots, heatmaps, PCoA, etc.).
 
 ## 🔧 Installation
 ### ⚙️ Dependencies
